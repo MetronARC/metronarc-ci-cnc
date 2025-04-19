@@ -21,7 +21,7 @@
           <p>Real-time insights for enhanced efficiency, reduced rework costs, and unwavering quality assurance for your cnc machine operations</p>
           <div class="d-flex">
             <a href="#contact" class="btn-get-started">Contact us</a>
-            <a href="https://www.youtube.com/watch?v=IxX_QHay02M&ab_channel=W%26W" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Demo Video</span></a>
+            <a href="https://youtu.be/dyDG-DF0XAg" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Demo Video</span></a>
           </div>
         </div>
       </div>
